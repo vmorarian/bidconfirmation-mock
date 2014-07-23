@@ -1,0 +1,2 @@
+bidconfirmation-mock
+====================
